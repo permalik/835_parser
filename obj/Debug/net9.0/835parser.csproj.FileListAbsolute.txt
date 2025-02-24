@@ -12,3 +12,4 @@
 /Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.pdb
 /Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.genruntimeconfig.cache
 /Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/ref/835parser.dll
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.sourcelink.json
