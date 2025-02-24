@@ -1,0 +1,14 @@
+/Users/tymalik/Documents/git/835parser/bin/Debug/net9.0/835parser
+/Users/tymalik/Documents/git/835parser/bin/Debug/net9.0/835parser.deps.json
+/Users/tymalik/Documents/git/835parser/bin/Debug/net9.0/835parser.runtimeconfig.json
+/Users/tymalik/Documents/git/835parser/bin/Debug/net9.0/835parser.dll
+/Users/tymalik/Documents/git/835parser/bin/Debug/net9.0/835parser.pdb
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.AssemblyInfoInputs.cache
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.AssemblyInfo.cs
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.csproj.CoreCompileInputs.cache
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.dll
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/refint/835parser.dll
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.pdb
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/835parser.genruntimeconfig.cache
+/Users/tymalik/Documents/git/835parser/obj/Debug/net9.0/ref/835parser.dll
